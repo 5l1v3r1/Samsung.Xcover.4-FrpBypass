@@ -58,14 +58,16 @@ This is probably easier to follow then mine version but their way is hard since 
 https://www.hardreset.info/devices/samsung/samsung-galaxy-xcover-4/faq/bypass-google-verification/frp-samsung-android-8-2020/?p=5 
 
 
-## If secure lock is not cleared by default
+### Authors: 
 
+    * **wuseman <wuseman@nr1.nu\>** 
 
-   Enable developer mode and with adb type: 
+### Contact
 
-       locksettings --set-pin <pin-code>
+    If you have problems, questions, ideas or suggestions please contact me on *_wuseman@nr1.nu_  - For faster contact visit freenode irc network or the webchat and type '/msg wuseman hi!' in the input bar and I will reply you ASAP I will see the message.
+  
+    Enter Freenodes network via your own client 'chat.freenode.com:+6697 or use their new web client [here](https://webchat.freenode.net/)
 
-## Open settings and factory reset yoru device
 
 
     
