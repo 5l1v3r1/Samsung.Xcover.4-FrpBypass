@@ -8,6 +8,8 @@ Android 9.0 security patch: July 2020 frp bypass by wuseman
 
 This wiki is a reminder for myself, if you have any problem by my version go for hardinfo's way.
 
+The only apk you need is FRP_vnROM_HardReset.info.apk, no pc or anything is required. Just follow any of the ways below
+
 ## wuseman's version
 
     1) Turn off device
@@ -51,9 +53,9 @@ This wiki is a reminder for myself, if you have any problem by my version go for
 
 ### Hardinfo's way
 
-    This is probably easier to follow then mine version but their way is hard since the simcard is not easy to take out on this device so you probably will see my version with the emergancy number easier then the bluetooth method
+This is probably easier to follow then mine version but their way is hard since the simcard is not easy to take out on this device so you probably will see my version with the emergancy number easier then the bluetooth method
 
-    https://www.hardreset.info/devices/samsung/samsung-galaxy-xcover-4/faq/bypass-google-verification/frp-samsung-android-8-2020/?p=5 
+https://www.hardreset.info/devices/samsung/samsung-galaxy-xcover-4/faq/bypass-google-verification/frp-samsung-android-8-2020/?p=5 
 
 
 ## If secure lock is not cleared by default
